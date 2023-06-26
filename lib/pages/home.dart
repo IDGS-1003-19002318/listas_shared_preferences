@@ -194,7 +194,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   // },
                   decoration: const InputDecoration(
                     border: OutlineInputBorder(),
-                    labelText: 'Agregar Subtitulo',
+                    labelText: 'Agregar url de la imagen',
                   ),
                 ),
               ),
